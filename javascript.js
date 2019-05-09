@@ -1,23 +1,8 @@
-var image_about;
-var image_vol;
-var image_qua;
-var image_blog;
+function myFunction() {
+  
+  var quote = "Memories get distorted over time. The average human has at least one false memory they believe is real";
 
-function main(){
-    image_about = document.getElementById("about").src;
-    
-    
-    image_about.addEventListener("mouseover", mouseOver); 
-    image_about.addEventListener("mouseout", mouseOut); 
-}
+  document.getElementById("place").innerHTML = quote;
 
-function mouseOver() {
-    //update image src attribute
-    image_about.src = "images/about_grey.png";   
-}
-
-
-function mouseOut() {
-   //update image src attribute
-  image_about.src = "images/about.png";      
+  
 }
