@@ -132,13 +132,15 @@ button
     padding-left: 120px;
     padding-right: 90px;
 }
+
 @media(max-width:414px) 
 {
   #content
   {
     width: 70%;
     padding-right:50px;
-    height: 500px;
+    padding-left:30px;
+    height: 1350px;
     margin-top: 5%;
 
   }
@@ -147,7 +149,7 @@ button
   {
     width: 20%;
     padding-right: 20px;
-    height: 400px;
+    height: 210px;
   }
 
   nav ul 
@@ -162,9 +164,16 @@ button
       padding-bottom: 10px;
   }
   
+  main
+  {
+    margin:0 auto;
+  }
+  
   img
   {
-      width: 400px;
+      width: 250px;
+      padding-left: 590px;
+   
   }
 }
 
