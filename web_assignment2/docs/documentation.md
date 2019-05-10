@@ -7,7 +7,6 @@ Link[https://github.com/3khanf54/web_assignment.git]
 The purpose of my website is to serve as a portfolio website for my sister. 
 
 ##Wire Frames
-I have linked the folder containing my wireframes below as well as there is a folder named "wireframes" within the folder containing my code.
 Link[https://github.com/3khanf54/web_assignment/tree/master/web_assignment2/wireframes]
 
 ##Colour Choices
@@ -19,7 +18,7 @@ One of the things that make my website accessible would be the alternative text 
 ##Evaluation
 I think in terms of presentation, my website is good as it displays the information clearly and is pleasing to look at. As this is a portfolio website, I think there is a lot more I could have added such as contact links including social media and email. Nonetheless, I think it turned out well.
 
-The difficulties that I came across during the process of this website would be that some of the content on the pages didn't align properly at first. For instance, due to having a different format such as bullet points. I also had difficulty making my breakpoint for mobile version work.  
+The difficulties that I came across during the process of this website would be that some of the content on the pages didn't align properly at first. For instance, due to having a different format such as bullet points. I also had difficulty making my breakpoint for mobile version work. I managed to fix some content on the pages but I couldn't completely make it responsive.
 
 I focused on two devices; laptop and an android phone (Samsung Galaxy S6 - 414 x 732 ). I took a laptop first approach as this was easier for me to work with first. I tested my website using device mode available in Google Chrome. 
 
