@@ -182,7 +182,25 @@ button
     padding-left: 60px;
     padding-bottom: 50px;
   }
+  #section1
+  {
+    padding-top: 250px;
 
+  }
+
+  .thin
+  {
+    font-size: 15px;
+    padding-right:50px;
+    padding-left:60px;
+  }
+
+  h1
+  {
+    font-size: 20px;
+    padding-left:60px;
+  }
+  
   article
   {
     padding-left: 50px;
